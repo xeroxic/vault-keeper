@@ -2,3 +2,4 @@
 // Optimize contract upgrade process
 // Enhance smart contract compatibility
 // Enhance governance contract flexibility
+// Add support for Layer-2 solutions
