@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Add support for NFT marketplaces
 // Refactor oracle interaction logic
+// Add support for ERC-721A tokens
