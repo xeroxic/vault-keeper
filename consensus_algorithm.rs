@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix memory leak in Rust smart contract
 // Implement emergency stop mechanism
+// Update testing framework for Solidity
