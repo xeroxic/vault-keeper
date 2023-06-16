@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Fix interoperability issues with other blockchains
 // Fix issues with contract finalization
+// Add support for ERC-1155 tokens
