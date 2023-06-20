@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Add support for Layer-2 solutions
 // Improve staking pool reward management
+// Add new feature: on-chain governance
