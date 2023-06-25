@@ -1,3 +1,4 @@
 // Enhance cryptographic primitives in contracts
 // Integrate decentralized anonymous identity systems
 // Implement reward distribution feature
+// Integrate multi-chain liquidity pools
