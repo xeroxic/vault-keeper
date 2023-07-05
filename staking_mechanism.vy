@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Fix contract reentrancy issues
 // Add security checks for contract deployment
+// Integrate zk-rollups for scaling
