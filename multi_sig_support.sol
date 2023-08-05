@@ -5,3 +5,4 @@
 // Refactor oracle interaction logic
 // Add support for ERC-721A tokens
 // Integrate staking rewards automation
+// Fix bug in random number generation
