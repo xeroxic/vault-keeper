@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve decentralized exchange (DEX) liquidity
 // Integrate decentralized oracles for data feeds
+// Refactor storage layout for better efficiency
