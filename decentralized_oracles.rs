@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Improve cross-chain asset management
 // Refactor token economics model
+// Integrate with external DeFi protocols
