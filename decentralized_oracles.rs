@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Refactor token economics model
 // Integrate with external DeFi protocols
+// Integrate multi-chain liquidity pools
