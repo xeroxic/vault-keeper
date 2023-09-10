@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Enhance contract upgrade mechanism
 // Fix compatibility with MetaMask
+// Refactor storage layout for better efficiency
