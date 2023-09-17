@@ -2,3 +2,4 @@
 // Improve decentralized identity (DID) systems
 // Bugfix: incorrect reward calculation
 // Refactor Ethereum gas price management
+// Implement cross-platform contract compatibility
