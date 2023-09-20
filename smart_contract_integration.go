@@ -2,3 +2,4 @@
 // Fix memory optimization issues in contracts
 // Integrate with decentralized storage systems
 // Add unit tests for staking module
+// Integrate automated market maker (AMM) logic
