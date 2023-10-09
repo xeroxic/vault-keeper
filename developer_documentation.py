@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Fix issues with contract state management
 // Optimize contract upgrade process
+// Optimize storage for off-chain data
