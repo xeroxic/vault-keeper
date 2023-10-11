@@ -6,3 +6,4 @@
 // Optimize token withdrawal logic
 // Optimize decentralized voting mechanisms
 // Enhance smart contract upgradeability
+// Fix ERC-721 contract issues with transfers
