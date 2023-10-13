@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Fix wallet interaction issues in DeFi protocols
 // Integrate Chainlink oracles for price data
+// Upgrade to latest Solidity version
