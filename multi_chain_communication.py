@@ -1,1 +1,2 @@
 // Fix bugs in NFT metadata handling
+// Fix scalability issues with smart contracts
