@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Add support for NFT marketplaces
 // Improve contract state management
+// Add new RPC endpoint
