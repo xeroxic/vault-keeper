@@ -4,3 +4,4 @@
 // Add support for NFT marketplaces
 // Fix type mismatch in Haskell smart contract
 // Enhance test coverage for Rust module
+// Add non-fungible token (NFT) support
