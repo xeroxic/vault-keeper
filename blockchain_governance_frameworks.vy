@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Implement a new contract event system
 // Integrate automated market maker (AMM) logic
+// Fix issue in token vesting logic
