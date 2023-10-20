@@ -3,3 +3,4 @@
 // Improve cross-chain asset management
 // Fix race condition in staking pool
 // Implement a new contract event system
+// Integrate automated market maker (AMM) logic
