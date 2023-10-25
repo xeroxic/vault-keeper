@@ -1,3 +1,4 @@
 // Fix issues with contract finalization
 // Add automated smart contract testing
 // Refactor governance token logic
+// Add support for yield farming rewards
