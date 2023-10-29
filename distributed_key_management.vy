@@ -4,3 +4,4 @@
 // Improve contract execution performance
 // Improve decentralized exchange (DEX) liquidity
 // Add support for ERC-1155 tokens
+// Integrate Chainlink VRF for randomness
