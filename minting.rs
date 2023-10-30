@@ -2,3 +2,4 @@
 // Implement price feed oracles for tokens
 // Implement dynamic fee adjustment
 // Fix transaction replay issue
+// Implement cross-chain bridge
