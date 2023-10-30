@@ -7,3 +7,4 @@
 // Optimize oracle data fetching mechanism
 // Fix issues in token transfer logic
 // Optimize storage for off-chain data
+// Integrate Chainlink oracles
