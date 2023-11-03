@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Refactor contract to use EIP-712 signatures
 // Refactor reward pooling algorithm
+// Fix issues with gas optimization in smart contracts
