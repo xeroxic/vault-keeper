@@ -7,3 +7,4 @@
 // Integrate with external DeFi protocols
 // Integrate multi-chain liquidity pools
 // Integrate zk-rollups for scaling
+// Implement delegation pattern
