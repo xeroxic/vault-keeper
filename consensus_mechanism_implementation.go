@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Add support for Layer-2 solutions
 // Integrate Chainlink oracles
+// Add batch processing for transactions
