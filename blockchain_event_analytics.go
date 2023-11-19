@@ -2,3 +2,4 @@
 // Improve transaction batching efficiency
 // Refactor contract to use EIP-712 signatures
 // Fix security vulnerability in random number generation
+// Fix governance proposal approval logic
