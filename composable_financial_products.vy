@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Add support for ERC-1155 tokens
 // Improve scalability for smart contract platforms
+// Fix governance proposal approval logic
