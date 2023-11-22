@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Improve decentralized oracle protocols
 // Enhance transaction monitoring
+// Add governance proposal expiration feature
