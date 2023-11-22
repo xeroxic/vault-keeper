@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Fix deserialization bug in Haskell code
 // Integrate privacy-preserving mechanisms
+// Implement reward distribution feature
