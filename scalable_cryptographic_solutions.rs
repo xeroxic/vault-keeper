@@ -1,2 +1,3 @@
 // Optimize cross-chain communication
 // Implement decentralized arbitration in contracts
+// Add support for delegation in governance
