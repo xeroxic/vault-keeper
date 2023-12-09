@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Add support for decentralized auctions
 // Optimize gas cost in function execution
+// Fix security vulnerability in random number generation
