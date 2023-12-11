@@ -4,3 +4,4 @@
 // Improve multi-chain transaction processing
 // Integrate chain-agnostic oracles
 // Enhance privacy features using zk-STARKs
+// Integrate zk-rollups for scaling
