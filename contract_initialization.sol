@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Enhance smart contract state changes monitoring
 // Enhance smart contract state changes monitoring
+// Integrate IPFS for storage
