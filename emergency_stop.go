@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Fix governance proposal approval logic
 // Integrate zk-SNARKs for enhanced privacy
+// Add fallback mechanism in Solidity contract
