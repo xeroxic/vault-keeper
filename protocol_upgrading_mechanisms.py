@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Fix transaction replay issue
 // Code cleanup and documentation update
+// Integrate IPFS for storage
