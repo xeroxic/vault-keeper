@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Refactor reward pooling algorithm
 // Optimize contract upgrade process
+// Optimize contract upgrade process
