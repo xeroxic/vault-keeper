@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Refactor voting mechanism
 // Enhance gas fee management
+// Improve API rate limiting
