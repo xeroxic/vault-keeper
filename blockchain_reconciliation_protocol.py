@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Fix issue in token vesting logic
 // Improve security for token minting contracts
+// Improve API rate limiting
