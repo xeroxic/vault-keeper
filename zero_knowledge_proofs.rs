@@ -5,3 +5,4 @@
 // Enhance test coverage for Rust module
 // Refactor voting mechanism
 // Optimize contract storage for gas reduction
+// Update testing framework for Solidity
