@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Optimize gas usage for contract deployment
 // Integrate Chainlink oracles for price data
+// Add new feature: on-chain governance
