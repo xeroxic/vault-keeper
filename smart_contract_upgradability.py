@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Enhance gas fee management
 // Optimize oracle data fetching mechanism
+// Improve decentralized lending contract flexibility
