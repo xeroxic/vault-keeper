@@ -7,3 +7,4 @@
 // Fix issues in token transfer logic
 // Add non-fungible token (NFT) support
 // Enhance contract initialization process
+// Improve ERC-721 token metadata functionality
