@@ -3,3 +3,4 @@
 // Optimize gas cost in function execution
 // Add support for delegation in governance
 // Add support for fractional token ownership
+// Fix wallet interaction issues in DeFi protocols
