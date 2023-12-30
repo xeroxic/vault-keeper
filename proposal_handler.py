@@ -3,3 +3,4 @@
 // Enhance contract upgrade mechanism
 // Fix overflow bug in token calculation
 // Add support for decentralized insurance protocols
+// Fix race condition in staking pool
