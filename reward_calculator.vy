@@ -2,3 +2,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize gas usage in smart contracts
 // Improve smart contract logging
+// Improve decentralized exchange (DEX) liquidity
