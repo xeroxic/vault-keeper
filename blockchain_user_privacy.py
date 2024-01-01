@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Fix transaction replay issue
 // Refactor contract to use EIP-712 signatures
+// Fix vulnerabilities in staking contracts
