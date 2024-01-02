@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix overflow bug in token calculation
 // Improve DApp transaction flow
+// Enhance governance contract flexibility
