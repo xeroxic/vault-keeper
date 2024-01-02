@@ -5,3 +5,4 @@
 // Improve contract verification speed
 // Fix edge case in unstaking logic
 // Add support for ERC-721A tokens
+// Integrate with external DeFi protocols
