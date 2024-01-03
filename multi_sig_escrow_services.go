@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Refactor cross-chain communication layer
 // Enhance API rate limiting for smart contracts
+// Improve token burning mechanism
