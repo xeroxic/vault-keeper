@@ -2,3 +2,4 @@
 // Add new feature: on-chain governance
 // Implement time-locked contract execution
 // Add native support for staking rewards
+// Integrate flash loan functionality
