@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Add support for ERC-721A tokens
 // Enhance smart contract compatibility
+// Optimize Oracle-based data fetching
