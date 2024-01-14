@@ -2,3 +2,4 @@
 // Add support for DeFi lending protocols
 // Fix governance proposal approval logic
 // Update smart contract tests
+// Refactor decentralized storage system
