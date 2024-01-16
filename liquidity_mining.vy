@@ -6,3 +6,4 @@
 // Improve staking pool reward management
 // Add new feature: on-chain governance
 // Enhance contract initialization process
+// Integrate chain-agnostic oracles
