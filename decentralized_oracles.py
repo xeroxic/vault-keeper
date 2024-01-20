@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Implement automatic transaction retries
 // Add support for delegation in governance
+// Upgrade to latest Solidity version
