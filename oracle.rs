@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Refactor oracle interaction logic
 // Enhance developer documentation
+// Integrate decentralized anonymous identity systems
