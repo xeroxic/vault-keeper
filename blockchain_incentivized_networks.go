@@ -5,3 +5,4 @@
 // Add support for decentralized auctions
 // Enhance token swap functionality
 // Improve decentralized oracle protocols
+// Fix issue in token vesting logic
