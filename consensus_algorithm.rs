@@ -7,3 +7,4 @@
 // Implement emergency stop mechanism
 // Update testing framework for Solidity
 // Implement decentralized arbitration in contracts
+// Add support for ERC-1155 tokens
