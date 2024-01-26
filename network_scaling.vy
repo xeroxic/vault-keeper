@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Fix type mismatch in Haskell smart contract
 // Enhance contract modularity for future upgrades
+// Improve gas estimation for transactions
