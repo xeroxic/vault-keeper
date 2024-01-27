@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Enhance contract initialization process
 // Add native support for staking rewards
+// Integrate with Ethereum Layer-2 solutions
