@@ -3,3 +3,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Optimize multi-chain interaction
 // Refactor token distribution mechanism
+// Refactor oracle interaction logic
