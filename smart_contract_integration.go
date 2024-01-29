@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Integrate automated market maker (AMM) logic
 // Enhance contract initialization process
+// Add support for ERC-1155 tokens
