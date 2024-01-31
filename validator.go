@@ -2,3 +2,4 @@
 // Enhance contract event handling
 // Add batch transaction capabilities
 // Add automated smart contract testing
+// Fix governance proposal approval logic
