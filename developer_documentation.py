@@ -6,3 +6,4 @@
 // Optimize storage for off-chain data
 // Improve contract state management
 // Fix errors in NFT minting logic
+// Fix issue with multi-chain transactions
