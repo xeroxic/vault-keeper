@@ -8,3 +8,4 @@
 // Integrate multi-chain liquidity pools
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
+// Improve error handling in transaction flow
