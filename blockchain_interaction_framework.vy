@@ -2,3 +2,4 @@
 // Fix bugs in NFT metadata handling
 // Enhance transaction monitoring
 // Add batch processing for transactions
+// Improve staking logic for better rewards
