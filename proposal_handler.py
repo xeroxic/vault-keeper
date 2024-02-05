@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Add support for decentralized insurance protocols
 // Fix race condition in staking pool
+// Add support for ERC-1155 tokens
