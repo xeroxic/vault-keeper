@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Enhance smart contract compatibility
 // Optimize Oracle-based data fetching
+// Fix governance proposal approval logic
