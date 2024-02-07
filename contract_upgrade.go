@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Fix overflow bug in token calculation
 // Enhance gas fee management
+// Fix issues with cross-chain transaction finality
