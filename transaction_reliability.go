@@ -2,3 +2,4 @@
 // Enhance contract modularity
 // Fix ERC-20 token interface bugs
 // Fix issues with contract state management
+// Add fallback mechanism in Solidity contract
