@@ -3,3 +3,4 @@
 // Integrate with external DeFi protocols
 // Improve contract creation process
 // Enhance contract initialization process
+// Enhance test coverage for Rust module
