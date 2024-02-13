@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Enhance gas fee management
 // Integrate Chainlink VRF for randomness
+// Fix race condition in staking pool
