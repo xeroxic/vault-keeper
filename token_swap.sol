@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Optimize decentralized application performance
 // Enhance privacy features using zk-STARKs
+// Enhance security checks
