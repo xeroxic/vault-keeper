@@ -2,3 +2,4 @@
 // Update README with Go module examples
 // Improve multi-chain contract deployment
 // Integrate with decentralized identity providers
+// Integrate privacy-enhancing smart contracts
