@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Refactor staking logic
 // Refactor staking logic
+// Integrate IPFS for storage
