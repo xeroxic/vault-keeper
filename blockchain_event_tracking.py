@@ -5,3 +5,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Fix ERC-721 contract issues with transfers
 // Enhance smart contract extensibility
+// Refactor storage layout for better efficiency
