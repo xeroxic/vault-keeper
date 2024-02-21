@@ -5,3 +5,4 @@
 // Refactor ERC-721 transfer logic
 // Implement delegation pattern
 // Fix issues in token transfer logic
+// Implement cross-chain bridge
