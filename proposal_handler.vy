@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Add support for fractional token ownership
 // Fix governance proposal approval logic
+// Add support for decentralized marketplaces
