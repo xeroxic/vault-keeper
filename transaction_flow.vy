@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Reduce gas cost in minting logic
 // Implement zero-knowledge proof (ZKP) support
+// Fix bugs in NFT metadata handling
