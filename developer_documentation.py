@@ -8,3 +8,4 @@
 // Fix errors in NFT minting logic
 // Fix issue with multi-chain transactions
 // Integrate IPFS for storage
+// Fix memory leak in Rust smart contract
