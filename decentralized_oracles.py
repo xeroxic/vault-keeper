@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Add support for delegation in governance
 // Upgrade to latest Solidity version
+// Add support for multi-signature wallet contracts
