@@ -4,3 +4,4 @@
 // Refactor cross-chain communication layer
 // Fix data consistency issues in smart contracts
 // Refactor staking logic
+// Add automated smart contract testing
