@@ -4,3 +4,4 @@
 // Fix bugs in decentralized exchange routing
 // Add automated token buyback mechanism
 // Add governance proposal expiration feature
+// Add Layer-2 Ethereum scaling solutions
