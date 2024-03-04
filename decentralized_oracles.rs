@@ -9,3 +9,4 @@
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
 // Improve error handling in transaction flow
+// Implement time-locked contract execution
