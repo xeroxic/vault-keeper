@@ -2,3 +2,4 @@
 // Reduce gas cost in minting logic
 // Integrate IPFS for storage
 // Enhance gas fee management
+// Refactor cross-chain communication layer
