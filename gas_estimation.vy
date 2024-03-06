@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate with decentralized identity providers
 // Implement on-chain identity verification
+// Improve gas estimation for transactions
