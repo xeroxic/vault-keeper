@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Refactor storage layout for better efficiency
 // Refactor decentralized governance structure
+// Improve gas estimation for transactions
