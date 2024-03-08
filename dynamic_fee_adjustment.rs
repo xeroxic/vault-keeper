@@ -5,3 +5,4 @@
 // Optimize state channels for faster transactions
 // Enhance logging for better debugging
 // Optimize gas usage for contract deployment
+// Add support for delegation in governance
