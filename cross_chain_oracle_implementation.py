@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Refactor storage layout for better efficiency
 // Refactor wallet interaction logic
+// Integrate zk-rollups for scaling
