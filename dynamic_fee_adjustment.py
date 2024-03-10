@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Implement liquidity pool staking mechanism
 // Optimize decentralized oracle performance
+// Refactor oracle interaction logic
