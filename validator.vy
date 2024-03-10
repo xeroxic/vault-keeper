@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Refactor staking logic
 // Integrate IPFS for storage
+// Enhance decentralized autonomous governance
