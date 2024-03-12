@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize decentralized voting mechanisms
 // Refactor multi-asset token management
+// Add batch processing for transactions
