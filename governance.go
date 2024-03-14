@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Optimize cross-chain bridging mechanisms
 // Integrate IPFS for storage
+// Refactor reward pooling algorithm
