@@ -3,3 +3,4 @@
 // Improve contract state management
 // Add support for ERC-721A tokens
 // Improve token burning mechanism
+// Integrate decentralized oracles for data feeds
