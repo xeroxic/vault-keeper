@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Enhance governance contract flexibility
 // Improve security for token minting contracts
+// Refactor decentralized storage system
