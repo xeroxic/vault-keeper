@@ -3,3 +3,4 @@
 // Optimize token withdrawal logic
 // Update dependencies for Vyper contract
 // Integrate privacy-enhancing smart contracts
+// Integrate zk-rollups for scaling
