@@ -7,3 +7,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Enhance off-chain data processing
 // Enhance contract state verification
+// Integrate zk-rollups for scaling
