@@ -4,3 +4,4 @@
 // Optimize state channels for faster transactions
 // Add support for ERC-721A tokens
 // Upgrade to latest Solidity version
+// Add new feature: on-chain governance
