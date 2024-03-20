@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Improve contract auditing tools
 // Fix errors in contract interaction with wallets
+// Implement a new contract event system
