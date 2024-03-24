@@ -6,3 +6,4 @@
 // Enhance smart contract compatibility
 // Optimize Oracle-based data fetching
 // Fix governance proposal approval logic
+// Fix issues in multi-token smart contracts
