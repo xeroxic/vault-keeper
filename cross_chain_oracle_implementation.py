@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Refactor wallet interaction logic
 // Integrate zk-rollups for scaling
+// Add support for decentralized insurance protocols
