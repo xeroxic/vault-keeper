@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Optimize gas usage in smart contracts
 // Add batch transaction capabilities
+// Add support for delegation in governance
