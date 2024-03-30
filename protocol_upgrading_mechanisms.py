@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Code cleanup and documentation update
 // Integrate IPFS for storage
+// Implement contract function batching
