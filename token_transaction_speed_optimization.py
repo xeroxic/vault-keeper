@@ -2,3 +2,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor governance token logic
 // Update testing framework for Solidity
+// Implement a new contract event system
