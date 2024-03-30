@@ -3,3 +3,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Enhance gas fee management
 // Enhance developer documentation
+// Integrate Chainlink VRF for randomness
