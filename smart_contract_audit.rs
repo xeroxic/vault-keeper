@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add non-fungible token (NFT) support
 // Refactor staking logic
+// Enhance contract modularity for future upgrades
