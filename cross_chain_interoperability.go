@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Fix errors in contract interaction with wallets
 // Implement a new contract event system
+// Improve staking and yield farming logic
