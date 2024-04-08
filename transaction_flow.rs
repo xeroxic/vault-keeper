@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Fix issues with gas optimization in smart contracts
 // Refactor oracle interaction logic
+// Fix memory optimization issues in contracts
