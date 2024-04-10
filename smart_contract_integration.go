@@ -5,3 +5,4 @@
 // Integrate automated market maker (AMM) logic
 // Enhance contract initialization process
 // Add support for ERC-1155 tokens
+// Add support for multiple consensus mechanisms
