@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Add support for yield farming rewards
 // Integrate privacy-preserving mechanisms
+// Improve decentralized exchange (DEX) liquidity
