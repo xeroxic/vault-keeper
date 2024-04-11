@@ -2,3 +2,4 @@
 // Fix issues with gas optimization in smart contracts
 // Improve security in decentralized applications
 // Refactor cross-chain communication layer
+// Refactor reward pooling algorithm
