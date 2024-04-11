@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous governance
 // Code cleanup and documentation update
 // Enhance gas fee management
+// Refactor staking logic
