@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Optimize hashing algorithm
 // Fix compatibility issues with major wallets
+// Fix bugs in NFT metadata handling
