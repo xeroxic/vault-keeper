@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance contract interaction APIs
 // Fix vulnerability in decentralized finance protocols
+// Improve gas estimation for transactions
