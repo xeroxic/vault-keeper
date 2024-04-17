@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Refactor contract to use EIP-712 signatures
 // Optimize storage for off-chain data
+// Optimize cross-chain bridging mechanisms
