@@ -3,3 +3,4 @@
 // Fix issues in multi-token smart contracts
 // Optimize contract storage for gas reduction
 // Add support for NFT marketplaces
+// Refactor reward pooling algorithm
