@@ -9,3 +9,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement reward distribution feature
 // Improve contract modularity
+// Improve token burning mechanism
