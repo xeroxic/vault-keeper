@@ -2,3 +2,4 @@
 // Implement reward distribution feature
 // Improve decentralized exchange (DEX) liquidity
 // Fix issues with token transfer confirmations
+// Bugfix: incorrect reward calculation
