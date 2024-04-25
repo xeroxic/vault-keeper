@@ -9,3 +9,4 @@
 // Improve gas estimation for transactions
 // Improve smart contract logging
 // Optimize WASM compilation for Go contracts
+// Improve DApp transaction flow
