@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Enhance gas fee management
 // Refactor cross-chain communication layer
+// Refactor contract to use EIP-712 signatures
