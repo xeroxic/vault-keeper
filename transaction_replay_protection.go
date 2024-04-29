@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Refactor staking logic
 // Optimize gas usage in smart contracts
+// Fix deserialization bug in Haskell code
