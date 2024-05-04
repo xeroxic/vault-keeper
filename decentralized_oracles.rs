@@ -10,3 +10,4 @@
 // Implement delegation pattern
 // Improve error handling in transaction flow
 // Implement time-locked contract execution
+// Improve decentralized identity (DID) systems
