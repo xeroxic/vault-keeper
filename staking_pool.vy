@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Add native support for staking mechanisms
 // Improve decentralized exchange (DEX) liquidity
+// Enhance smart contract state changes monitoring
