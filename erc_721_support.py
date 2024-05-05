@@ -8,3 +8,4 @@
 // Upgrade to latest Solidity version
 // Improve contract modularity
 // Refactor incentive structure in DeFi protocol
+// Update dependencies for Vyper contract
