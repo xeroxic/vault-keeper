@@ -7,3 +7,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement automated governance voting
 // Improve scalability for smart contract platforms
+// Integrate with decentralized identity providers
