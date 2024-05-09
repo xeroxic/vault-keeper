@@ -6,3 +6,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Fix bugs in NFT metadata handling
 // Fix governance proposal approval logic
+// Integrate IPFS for storage
