@@ -4,3 +4,4 @@
 // Refactor Ethereum gas price management
 // Improve token burning mechanism
 // Improve smart contract code modularity
+// Add support for cross-chain bridges
