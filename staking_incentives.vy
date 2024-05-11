@@ -5,3 +5,4 @@
 // Implement cross-platform contract compatibility
 // Improve security for token minting contracts
 // Enhance contract upgrade mechanism
+// Add native support for staking rewards
