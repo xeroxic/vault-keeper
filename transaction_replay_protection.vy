@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Add unit tests for staking module
 // Optimize contract storage for gas reduction
+// Add batch processing for transactions
