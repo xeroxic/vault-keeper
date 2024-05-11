@@ -5,3 +5,4 @@
 // Improve decentralized lending contract flexibility
 // Implement adaptive block size for Ethereum
 // Implement cross-platform contract compatibility
+// Integrate zk-rollups for scaling
