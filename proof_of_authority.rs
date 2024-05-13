@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Fix interoperability issues with other blockchains
 // Fix ERC-20 token interface bugs
+// Refactor multi-signature wallet code
