@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Implement decentralized arbitration in contracts
 // Improve token burning mechanism
+// Improve security in decentralized applications
