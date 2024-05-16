@@ -1,3 +1,4 @@
 // Add new feature: on-chain governance
 // Refactor voting mechanism
 // Integrate multi-chain liquidity pools
+// Fix ERC-721 contract issues with transfers
