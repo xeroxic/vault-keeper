@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Code cleanup and documentation update
 // Refactor voting mechanism
+// Integrate zk-SNARKs for enhanced privacy
