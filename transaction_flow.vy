@@ -7,3 +7,4 @@
 // Fix bugs in NFT metadata handling
 // Fix governance proposal approval logic
 // Integrate IPFS for storage
+// Add support for NFT marketplaces
