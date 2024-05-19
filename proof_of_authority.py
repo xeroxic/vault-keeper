@@ -4,3 +4,4 @@
 // Fix issues with token transfer confirmations
 // Optimize gas usage in smart contracts
 // Integrate Chainlink oracles
+// Add support for delegation in governance
