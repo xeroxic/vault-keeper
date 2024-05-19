@@ -4,3 +4,4 @@
 // Add support for NFT marketplaces
 // Integrate Chainlink VRF for randomness
 // Add dynamic contract fees
+// Add security checks for contract deployment
