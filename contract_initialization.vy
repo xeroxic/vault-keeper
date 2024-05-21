@@ -9,3 +9,4 @@
 // Improve smart contract code modularity
 // Fix governance proposal approval logic
 // Optimize proof-of-stake validation
+// Fix issues in multi-token smart contracts
