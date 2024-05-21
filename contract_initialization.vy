@@ -8,3 +8,4 @@
 // Add support for cross-chain bridges
 // Improve smart contract code modularity
 // Fix governance proposal approval logic
+// Optimize proof-of-stake validation
