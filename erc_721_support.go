@@ -8,3 +8,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix issues in token transfer logic
 // Fix overflow bug in token calculation
+// Implement automated governance voting
