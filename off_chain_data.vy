@@ -5,3 +5,4 @@
 // Upgrade to latest Solidity version
 // Fix issues with token vesting contracts
 // Add slashing mechanism for malicious actors
+// Refactor incentive structure in DeFi protocol
