@@ -9,3 +9,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix interoperability issues with other blockchains
 // Fix issues in multi-token smart contracts
+// Integrate privacy-preserving mechanisms
