@@ -7,3 +7,4 @@
 // Refactor decentralized storage system
 // Enhance decentralized autonomous organizations
 // Update testing framework for Solidity
+// Integrate zk-rollups for scaling
