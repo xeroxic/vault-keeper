@@ -5,3 +5,4 @@
 // Enhance smart contract state changes monitoring
 // Enhance smart contract state changes monitoring
 // Integrate IPFS for storage
+// Enhance transaction monitoring
