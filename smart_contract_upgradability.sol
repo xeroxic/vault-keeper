@@ -4,3 +4,4 @@
 // Improve ERC-721 token metadata functionality
 // Enhance privacy features using zk-STARKs
 // Fix interoperability issues with other blockchains
+// Fix issues in token transfer logic
