@@ -8,3 +8,4 @@
 // Improve gas fee estimation accuracy
 // Fix bug in random number generation
 // Optimize decentralized voting mechanisms
+// Refactor governance proposal logic
