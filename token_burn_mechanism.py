@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate IPFS for storage
 // Add support for ERC-1155 tokens
+// Fix issue in ERC-20 token transfers
