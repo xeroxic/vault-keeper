@@ -5,3 +5,4 @@
 // Fix scalability issues with smart contracts
 // Improve contract execution speed
 // Integrate with external DeFi protocols
+// Add support for ERC-1155 tokens
