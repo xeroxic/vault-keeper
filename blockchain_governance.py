@@ -3,3 +3,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Refactor staking logic
 // Optimize token minting flow
+// Add multi-sig wallet functionality
