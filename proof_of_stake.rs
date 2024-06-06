@@ -6,3 +6,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor decentralized governance structure
 // Fix issues with contract finalization
+// Add support for delegation in governance
