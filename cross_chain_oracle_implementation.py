@@ -6,3 +6,4 @@
 // Refactor wallet interaction logic
 // Integrate zk-rollups for scaling
 // Add support for decentralized insurance protocols
+// Add multi-chain governance support
