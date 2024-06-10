@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Add support for ERC-1155 tokens
 // Update dependencies for Vyper contract
+// Implement cross-chain bridge
