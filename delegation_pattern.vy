@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Optimize token withdrawal logic
 // Optimize decentralized application performance
+// Refactor reward pooling algorithm
