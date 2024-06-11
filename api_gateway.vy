@@ -7,3 +7,4 @@
 // Enhance smart contract audit tools
 // Refactor token economics model
 // Refactor reward pooling algorithm
+// Integrate zk-rollups for scaling
