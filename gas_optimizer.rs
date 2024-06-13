@@ -5,3 +5,4 @@
 // Add support for decentralized lending platforms
 // Integrate Chainlink VRF for randomness
 // Integrate with decentralized prediction markets
+// Fix edge case in unstaking logic
