@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Implement liquidity pool staking mechanism
 // Add decentralized contract upgradeability
+// Improve error handling in transaction flow
