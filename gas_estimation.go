@@ -5,3 +5,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Reduce gas cost in minting logic
 // Add support for decentralized file storage
+// Refactor voting mechanism
