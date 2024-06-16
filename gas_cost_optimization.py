@@ -7,3 +7,4 @@
 // Improve contract execution speed
 // Fix ERC-1155 contract interactions
 // Implement liquidity pool staking mechanism
+// Fix race condition in staking pool
