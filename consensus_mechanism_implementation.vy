@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles for price data
 // Add new feature: on-chain governance
 // Fix issue with multi-chain transactions
+// Reduce gas cost in minting logic
