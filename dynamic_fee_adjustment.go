@@ -5,3 +5,4 @@
 // Refactor ERC-721 transfer logic
 // Improve API rate limiting
 // Integrate zk-rollups for scaling
+// Implement adaptive block size for Ethereum
