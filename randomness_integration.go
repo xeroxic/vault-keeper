@@ -6,3 +6,4 @@
 // Fix compatibility issues with major wallets
 // Fix memory optimization issues in contracts
 // Improve contract modularity
+// Add support for decentralized file storage
