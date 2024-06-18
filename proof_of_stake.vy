@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Improve DApp transaction flow
 // Add batch processing for transactions
+// Integrate with multi-token standards
