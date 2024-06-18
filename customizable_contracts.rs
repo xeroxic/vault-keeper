@@ -3,3 +3,4 @@
 // Integrate decentralized prediction models
 // Add support for multiple consensus mechanisms
 // Improve contract execution performance
+// Add support for ERC-1155 tokens
