@@ -4,3 +4,4 @@
 // Integrate chain-agnostic oracles
 // Improve smart contract code modularity
 // Improve gas estimation for transactions
+// Enhance privacy features using zk-STARKs
