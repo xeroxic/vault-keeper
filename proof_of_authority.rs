@@ -7,3 +7,4 @@
 // Fix interoperability issues with other blockchains
 // Fix ERC-20 token interface bugs
 // Refactor multi-signature wallet code
+// Add support for delegation in governance
