@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Implement on-chain identity verification
 // Implement a new contract event system
+// Fix contract reentrancy issues
