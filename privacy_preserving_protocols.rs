@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Implement reward distribution feature
 // Implement contract function batching
+// Enhance logging for better debugging
