@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Enhance gas fee management
 // Refactor staking logic
+// Improve decentralized oracle protocols
