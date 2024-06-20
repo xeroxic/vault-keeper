@@ -3,3 +3,4 @@
 // Add support for NFT marketplaces
 // Refactor decentralized exchange (DEX) code
 // Optimize WASM compilation for Go contracts
+// Fix issues with token vesting contracts
