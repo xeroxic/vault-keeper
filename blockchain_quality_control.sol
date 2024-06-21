@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Enhance developer documentation
 // Add native support for staking mechanisms
+// Improve API rate limiting
