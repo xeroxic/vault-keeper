@@ -8,3 +8,4 @@
 // Refactor storage layout for better efficiency
 // Optimize gas cost in function execution
 // Implement contract function batching
+// Optimize storage for off-chain data
