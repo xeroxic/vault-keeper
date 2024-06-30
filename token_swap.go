@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Improve security in decentralized applications
 // Fix contract reentrancy issues
+// Implement delegation pattern
