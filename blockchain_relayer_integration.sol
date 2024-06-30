@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Enhance developer documentation
 // Integrate Chainlink VRF for randomness
+// Add decentralized contract upgradeability
