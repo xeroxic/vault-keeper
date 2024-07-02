@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Add support for decentralized marketplaces
 // Fix issues in token transfer logic
+// Fix compatibility issues with MetaMask
