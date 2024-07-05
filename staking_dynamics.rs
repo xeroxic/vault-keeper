@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Add support for decentralized credit scoring
 // Refactor oracle interaction logic
+// Fix contract reentrancy issues
