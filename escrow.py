@@ -5,3 +5,4 @@
 // Refactor contract event emission
 // Fix wallet interaction issues in DeFi protocols
 // Refactor incentive structure in DeFi protocol
+// Integrate staking rewards automation
