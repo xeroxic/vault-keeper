@@ -7,3 +7,4 @@
 // Integrate decentralized prediction models
 // Enhance contract upgrade process
 // Refactor contract state machine design
+// Integrate Chainlink oracles
