@@ -4,3 +4,4 @@
 // Optimize gas usage in smart contracts
 // Fix issues with gas optimization in smart contracts
 // Integrate Chainlink oracles
+// Add support for cross-chain bridges
