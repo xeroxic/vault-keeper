@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance contract upgrade mechanism
 // Implement cross-chain bridge
+// Add support for Layer-2 solutions
