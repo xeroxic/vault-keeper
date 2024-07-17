@@ -5,3 +5,4 @@
 // Enhance smart contract extensibility
 // Fix compatibility with MetaMask
 // Optimize token burn process
+// Optimize token burn process
