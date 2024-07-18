@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Fix issues with token transfer confirmations
 // Bugfix: incorrect reward calculation
+// Add support for zk-SNARKs in smart contracts
