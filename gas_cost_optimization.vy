@@ -10,3 +10,4 @@
 // Implement reward distribution feature
 // Improve contract modularity
 // Improve token burning mechanism
+// Implement cross-chain bridge
