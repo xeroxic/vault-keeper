@@ -5,3 +5,4 @@
 // Improve scalability for smart contract platforms
 // Fix governance proposal approval logic
 // Improve security for token minting contracts
+// Refactor staking logic
