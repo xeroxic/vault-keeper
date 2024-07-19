@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Improve token burning mechanism
 // Fix data consistency issues in smart contracts
+// Fix bug in random number generation
