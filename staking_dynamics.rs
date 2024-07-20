@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Refactor oracle interaction logic
 // Fix contract reentrancy issues
+// Implement zero-knowledge proof (ZKP) support
