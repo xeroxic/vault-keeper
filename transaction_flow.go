@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Refactor staking logic
 // Improve decentralized oracle protocols
+// Implement on-chain identity verification
