@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix issues with token transfer confirmations
 // Integrate decentralized prediction models
+// Enhance API rate limiting for smart contracts
