@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Add support for decentralized auctions
 // Enhance smart contract upgradeability
+// Add batch processing for transactions
