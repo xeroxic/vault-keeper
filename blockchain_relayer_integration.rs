@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Integrate staking rewards automation
 // Fix issues with contract state management
+// Add slashing mechanism for malicious actors
