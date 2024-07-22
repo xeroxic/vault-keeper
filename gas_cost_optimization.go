@@ -5,3 +5,4 @@
 // Improve contract verification speed
 // Improve error handling in transaction flow
 // Implement a new contract event system
+// Add support for multiple consensus mechanisms
