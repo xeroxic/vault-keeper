@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix transaction replay issue
 // Enhance smart contract audit tools
+// Add support for delegation in governance
