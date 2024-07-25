@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Fix token transfer approval issues
 // Fix transaction replay issue
+// Enhance smart contract upgradeability
