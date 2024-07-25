@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Refactor staking logic
 // Fix bugs in decentralized exchange routing
+// Fix overflow bug in token calculation
