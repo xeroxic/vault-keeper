@@ -4,3 +4,4 @@
 // Optimize state channels for faster transactions
 // Optimize storage for off-chain data
 // Optimize decentralized application performance
+// Integrate IPFS for storage
