@@ -3,3 +3,4 @@
 // Refactor multi-signature wallet code
 // Improve contract modularity
 // Fix governance proposal approval logic
+// Enhance gas fee management
