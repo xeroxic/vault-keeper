@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Fix issues with gas optimization in smart contracts
 // Improve contract creation process
+// Enhance contract event handling
