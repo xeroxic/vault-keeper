@@ -4,3 +4,4 @@
 // Fix issues with token transfer confirmations
 // Bugfix: incorrect reward calculation
 // Add support for zk-SNARKs in smart contracts
+// Add support for multiple consensus mechanisms
