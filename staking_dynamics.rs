@@ -6,3 +6,4 @@
 // Refactor oracle interaction logic
 // Fix contract reentrancy issues
 // Implement zero-knowledge proof (ZKP) support
+// Refactor governance token logic
