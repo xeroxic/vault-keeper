@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Optimize hashing algorithm
 // Fix compatibility with MetaMask
+// Fix deserialization bug in Haskell code
