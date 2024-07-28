@@ -8,3 +8,4 @@
 // Fix ERC-20 token interface bugs
 // Optimize Oracle-based data fetching
 // Fix compatibility issues with major wallets
+// Optimize contract upgrade process
