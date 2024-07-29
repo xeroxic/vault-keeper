@@ -10,3 +10,4 @@
 // Fix interoperability issues with other blockchains
 // Fix issues in multi-token smart contracts
 // Integrate privacy-preserving mechanisms
+// Integrate IPFS for storage
