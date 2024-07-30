@@ -11,3 +11,4 @@
 // Fix issues in multi-token smart contracts
 // Integrate privacy-preserving mechanisms
 // Integrate IPFS for storage
+// Improve decentralized oracle protocols
