@@ -8,3 +8,4 @@
 // Add support for ERC-721A tokens
 // Fix issue with multi-chain transactions
 // Fix wallet interaction issues in DeFi protocols
+// Implement adaptive block size for Ethereum
