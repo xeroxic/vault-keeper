@@ -9,3 +9,4 @@
 // Improve contract state management
 // Integrate privacy-preserving mechanisms
 // Optimize state channels for faster transactions
+// Add new feature: on-chain governance
