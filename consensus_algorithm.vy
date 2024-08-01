@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Integrate zk-rollups for scaling
 // Reduce gas cost in minting logic
+// Implement on-chain identity verification
