@@ -6,3 +6,4 @@
 // Integrate decentralized anonymous identity systems
 // Enhance token swap functionality
 // Improve token minting flow efficiency
+// Add fallback mechanism in Solidity contract
