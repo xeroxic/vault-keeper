@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Add multi-sig wallet functionality
 // Optimize token burn process
+// Improve error handling in transaction flow
