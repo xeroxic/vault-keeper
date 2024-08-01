@@ -3,3 +3,4 @@
 // Integrate privacy-enhancing smart contracts
 // Integrate IPFS for storage
 // Add new feature: on-chain governance
+// Add support for cross-chain bridges
