@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Improve security in decentralized applications
 // Refactor reward pooling algorithm
+// Improve token burning mechanism
