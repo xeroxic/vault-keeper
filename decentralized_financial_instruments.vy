@@ -3,3 +3,4 @@
 // Enhance contract upgrade mechanism
 // Upgrade to latest Solidity version
 // Implement automated governance voting
+// Add support for decentralized auctions
