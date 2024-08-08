@@ -6,3 +6,4 @@
 // Refactor oracle interaction logic
 // Enhance smart contract compatibility
 // Fix overflow bug in token calculation
+// Improve smart contract logging
