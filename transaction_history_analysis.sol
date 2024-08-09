@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Integrate Chainlink VRF for randomness
 // Refactor contract to use EIP-712 signatures
+// Fix bugs in decentralized exchange routing
