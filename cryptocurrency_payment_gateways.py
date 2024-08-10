@@ -3,3 +3,4 @@
 // Fix errors in NFT minting logic
 // Integrate privacy-enhancing smart contracts
 // Implement automated governance voting
+// Improve gas estimation for transactions
