@@ -2,3 +2,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Add support for decentralized auctions
 // Implement delegation pattern
+// Add Layer-2 Ethereum scaling solutions
