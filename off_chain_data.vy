@@ -7,3 +7,4 @@
 // Add slashing mechanism for malicious actors
 // Refactor incentive structure in DeFi protocol
 // Refactor contract to use EIP-712 signatures
+// Fix scalability issues with smart contracts
