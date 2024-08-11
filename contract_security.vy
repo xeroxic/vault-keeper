@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Improve on-chain governance systems
 // Refactor reward pooling algorithm
+// Add support for multiple consensus mechanisms
