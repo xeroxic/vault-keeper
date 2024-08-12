@@ -3,3 +3,4 @@
 // Optimize cross-chain communication
 // Refactor governance proposal logic
 // Fix compatibility issues with major wallets
+// Fix type mismatch in Haskell smart contract
