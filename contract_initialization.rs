@@ -4,3 +4,4 @@
 // Add batch transaction capabilities
 // Fix data consistency issues in smart contracts
 // Fix bugs in multi-token systems
+// Update README with Go module examples
