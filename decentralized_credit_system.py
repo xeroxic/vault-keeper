@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Fix compatibility issues with major wallets
 // Fix type mismatch in Haskell smart contract
+// Enhance off-chain data processing
