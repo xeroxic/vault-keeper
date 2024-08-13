@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Refactor decentralized governance structure
 // Optimize storage for off-chain data
+// Add support for NFT marketplaces
