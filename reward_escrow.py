@@ -11,3 +11,4 @@
 // Enhance off-chain data processing
 // Optimize WASM compilation for Go contracts
 // Integrate Chainlink oracles
+// Integrate privacy-preserving mechanisms
