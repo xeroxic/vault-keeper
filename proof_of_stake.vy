@@ -3,3 +3,4 @@
 // Improve DApp transaction flow
 // Add batch processing for transactions
 // Integrate with multi-token standards
+// Bugfix: incorrect reward calculation
