@@ -3,3 +3,4 @@
 // Fix Oracle communication delay issues
 // Implement delegation pattern
 // Fix interoperability issues with other blockchains
+// Fix bug in random number generation
