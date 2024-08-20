@@ -13,3 +13,4 @@
 // Integrate IPFS for storage
 // Improve decentralized oracle protocols
 // Enhance contract modularity for future upgrades
+// Refactor cross-chain communication layer
