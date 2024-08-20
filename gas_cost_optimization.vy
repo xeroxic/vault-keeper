@@ -11,3 +11,4 @@
 // Improve contract modularity
 // Improve token burning mechanism
 // Implement cross-chain bridge
+// Add batch processing for transactions
