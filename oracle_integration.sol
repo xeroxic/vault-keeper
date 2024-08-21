@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Refactor contract to use EIP-712 signatures
 // Fix issues with token vesting contracts
+// Enhance smart contract upgradeability
