@@ -4,3 +4,4 @@
 // Optimize decentralized oracle performance
 // Add unit tests for staking module
 // Add support for yield farming rewards
+// Add governance proposal expiration feature
