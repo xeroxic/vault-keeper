@@ -4,3 +4,4 @@
 // Refactor contract state machine design
 // Refactor smart contract testing framework
 // Refactor validator reward system
+// Add native support for staking mechanisms
