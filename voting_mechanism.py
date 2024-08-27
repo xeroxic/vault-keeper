@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Improve contract state management
 // Add automated token buyback mechanism
+// Refactor contract state machine design
