@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Improve on-chain governance systems
 // Refactor cross-chain communication layer
+// Add support for multi-signature wallet contracts
