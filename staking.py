@@ -9,3 +9,4 @@
 // Fix issues in multi-token smart contracts
 // Fix edge case in unstaking logic
 // Fix issue in ERC-20 token transfers
+// Integrate IPFS for storage
