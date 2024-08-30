@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Implement a new contract event system
 // Add support for multiple consensus mechanisms
+// Fix governance proposal approval logic
