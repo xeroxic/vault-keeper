@@ -5,3 +5,4 @@
 // Integrate flash loan functionality
 // Integrate with decentralized storage systems
 // Refactor wallet interaction logic
+// Refactor reward pooling algorithm
