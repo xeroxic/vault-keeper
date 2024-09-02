@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Improve contract state management
 // Implement contract function batching
+// Refactor contract to use EIP-712 signatures
