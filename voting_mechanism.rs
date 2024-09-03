@@ -12,3 +12,4 @@
 // Improve DApp transaction flow
 // Fix overflow bug in token calculation
 // Improve smart contract code modularity
+// Integrate with decentralized identity providers
