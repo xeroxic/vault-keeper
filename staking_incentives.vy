@@ -6,3 +6,4 @@
 // Improve security for token minting contracts
 // Enhance contract upgrade mechanism
 // Add native support for staking rewards
+// Add support for delegation in governance
