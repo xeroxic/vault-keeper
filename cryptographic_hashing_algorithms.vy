@@ -4,3 +4,4 @@
 // Improve transaction batching efficiency
 // Add support for decentralized auctions
 // Add native support for staking mechanisms
+// Fix governance proposal approval logic
