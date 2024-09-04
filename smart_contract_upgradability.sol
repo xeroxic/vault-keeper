@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Fix issues in token transfer logic
 // Optimize cross-chain bridging mechanisms
+// Enhance privacy features using zk-STARKs
