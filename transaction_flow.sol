@@ -2,3 +2,4 @@
 // Refactor wallet interaction logic
 // Fix transaction replay issue
 // Enhance contract initialization process
+// Integrate privacy-enhancing smart contracts
