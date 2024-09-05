@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Bugfix: incorrect reward calculation
 // Refactor Ethereum gas price management
+// Enhance API rate limiting for smart contracts
