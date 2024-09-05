@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Enhance test coverage for Rust module
 // Optimize hashing algorithm
+// Update README with Go module examples
