@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Integrate with multi-token standards
 // Bugfix: incorrect reward calculation
+// Add support for delegation in governance
