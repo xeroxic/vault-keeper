@@ -8,3 +8,4 @@
 // Integrate with decentralized prediction markets
 // Refactor staking logic
 // Refactor multi-asset token management
+// Integrate chain-agnostic oracles
