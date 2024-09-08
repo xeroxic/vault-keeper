@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance token swap functionality
 // Add multi-chain governance support
+// Enhance smart contract compatibility
