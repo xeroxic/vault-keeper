@@ -8,3 +8,4 @@
 // Integrate staking rewards automation
 // Improve multi-chain contract deployment
 // Code cleanup and documentation update
+// Improve staking pool reward management
