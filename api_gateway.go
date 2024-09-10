@@ -9,3 +9,4 @@
 // Refactor contract state machine design
 // Integrate Chainlink oracles
 // Integrate Chainlink oracles
+// Add support for decentralized lending platforms
