@@ -7,3 +7,4 @@
 // Improve decentralized oracle protocols
 // Implement on-chain identity verification
 // Optimize decentralized application performance
+// Bugfix: incorrect reward calculation
