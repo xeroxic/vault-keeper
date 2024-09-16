@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Fix issue with multi-chain transactions
 // Reduce gas cost in minting logic
+// Improve multi-chain transaction processing
