@@ -6,3 +6,4 @@
 // Integrate privacy-preserving mechanisms
 // Optimize Oracle-based data fetching
 // Refactor governance proposal logic
+// Refactor oracle interaction logic
