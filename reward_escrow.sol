@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Enhance smart contract audit tools
 // Enhance contract upgrade process
+// Integrate IPFS for storage
