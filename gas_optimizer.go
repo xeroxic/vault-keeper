@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Optimize gas usage for contract deployment
 // Fix overflow bug in token calculation
+// Add support for ERC-721A tokens
