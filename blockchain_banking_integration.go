@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Add support for multiple consensus mechanisms
 // Add support for decentralized file storage
+// Add batch processing for transactions
