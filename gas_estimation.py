@@ -5,3 +5,4 @@
 // Add support for multi-signature wallet contracts
 // Refactor governance proposal logic
 // Enhance off-chain data processing
+// Refactor incentive structure in DeFi protocol
