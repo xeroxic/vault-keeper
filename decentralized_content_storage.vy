@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Integrate decentralized oracles for data feeds
 // Implement rewards escrow system
+// Integrate with decentralized identity providers
