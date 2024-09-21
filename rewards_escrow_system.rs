@@ -5,3 +5,4 @@
 // Fix ERC-20 token interface bugs
 // Improve contract state management
 // Add multi-chain governance support
+// Add unit tests for staking module
