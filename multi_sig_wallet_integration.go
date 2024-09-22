@@ -3,3 +3,4 @@
 // Add support for decentralized lending platforms
 // Fix token transfer approval issues
 // Enhance privacy features using zk-STARKs
+// Fix ERC-721 contract issues with transfers
