@@ -6,3 +6,4 @@
 // Improve contract state management
 // Add multi-chain governance support
 // Add unit tests for staking module
+// Fix issue with multi-chain transactions
