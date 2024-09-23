@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Enhance contract upgrade process
 // Add support for cross-chain bridges
+// Enhance privacy features using zk-STARKs
