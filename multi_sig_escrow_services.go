@@ -8,3 +8,4 @@
 // Enhance API rate limiting for smart contracts
 // Improve token burning mechanism
 // Fix ERC-721 contract issues with transfers
+// Add support for fractional token ownership
