@@ -6,3 +6,4 @@
 // Enhance smart contract state changes monitoring
 // Implement cross-chain bridge
 // Add support for cross-chain bridges
+// Integrate zk-rollups for scaling
