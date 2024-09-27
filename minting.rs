@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Add security checks for contract deployment
 // Refactor governance token logic
+// Refactor cross-chain communication layer
