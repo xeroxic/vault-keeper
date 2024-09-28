@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Enhance contract initialization process
 // Fix issues with cross-chain transaction finality
+// Integrate IPFS for storage
