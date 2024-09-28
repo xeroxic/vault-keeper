@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Fix issue with multi-chain transactions
 // Refactor storage layout for better efficiency
+// Optimize contract storage for gas reduction
