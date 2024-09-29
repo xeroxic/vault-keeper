@@ -9,3 +9,4 @@
 // Fix issue with multi-chain transactions
 // Integrate IPFS for storage
 // Fix memory leak in Rust smart contract
+// Improve staking logic for better rewards
