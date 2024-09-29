@@ -8,3 +8,4 @@
 // Refactor multi-asset token management
 // Add batch processing for transactions
 // Enhance gas fee management
+// Fix errors in contract interaction with wallets
