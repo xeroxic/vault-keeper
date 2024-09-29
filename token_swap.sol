@@ -9,3 +9,4 @@
 // Integrate with decentralized prediction markets
 // Implement contract function batching
 // Improve on-chain governance systems
+// Improve staking pool reward management
