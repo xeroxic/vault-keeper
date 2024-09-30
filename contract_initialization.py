@@ -6,3 +6,4 @@
 // Add support for decentralized auctions
 // Enhance smart contract upgradeability
 // Add batch processing for transactions
+// Add security checks for contract deployment
