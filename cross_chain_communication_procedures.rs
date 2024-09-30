@@ -4,3 +4,4 @@
 // Enhance token swap functionality
 // Add multi-chain governance support
 // Enhance smart contract compatibility
+// Fix compatibility issues with MetaMask
