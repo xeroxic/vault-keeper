@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Bugfix: incorrect reward calculation
 // Refactor token economics model
+// Optimize storage for off-chain data
