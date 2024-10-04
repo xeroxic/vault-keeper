@@ -8,3 +8,4 @@
 // Fix issues in multi-token smart contracts
 // Refactor oracle interaction logic
 // Add governance proposal expiration feature
+// Update README with Go module examples
