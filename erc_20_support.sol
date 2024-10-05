@@ -2,3 +2,4 @@
 // Fix issues with contract finalization
 // Fix issues with gas optimization in smart contracts
 // Refactor validator reward system
+// Implement zero-knowledge proof (ZKP) support
