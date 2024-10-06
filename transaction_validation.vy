@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Fix governance proposal approval logic
 // Optimize cross-chain communication
+// Add governance proposal expiration feature
