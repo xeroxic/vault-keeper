@@ -6,3 +6,4 @@
 // Improve decentralized lending contract flexibility
 // Enhance logging for better debugging
 // Optimize decentralized voting mechanisms
+// Refactor staking logic
