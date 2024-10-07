@@ -12,3 +12,4 @@
 // Add non-fungible token (NFT) support
 // Improve DApp transaction flow
 // Add multi-sig wallet functionality
+// Add support for delegation in governance
