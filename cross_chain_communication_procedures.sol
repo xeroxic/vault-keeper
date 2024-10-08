@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Fix transaction replay issue
 // Refactor voting mechanism
+// Fix vulnerabilities in staking contracts
