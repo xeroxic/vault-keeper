@@ -3,3 +3,4 @@
 // Improve cross-chain asset management
 // Improve multi-chain contract deployment
 // Fix vulnerabilities in staking contracts
+// Improve contract interaction via APIs
