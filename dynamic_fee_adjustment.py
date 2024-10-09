@@ -10,3 +10,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Implement adaptive block size for Ethereum
 // Add governance proposal expiration feature
+// Refactor storage layout for better efficiency
