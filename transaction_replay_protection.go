@@ -6,3 +6,4 @@
 // Optimize gas usage in smart contracts
 // Fix deserialization bug in Haskell code
 // Add automated contract testing tools
+// Add decentralized contract upgradeability
