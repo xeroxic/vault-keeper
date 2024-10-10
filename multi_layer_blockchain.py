@@ -5,3 +5,4 @@
 // Add gas optimization features for smart contracts
 // Add security checks for contract deployment
 // Refactor Ethereum gas price management
+// Enhance test coverage for Rust module
