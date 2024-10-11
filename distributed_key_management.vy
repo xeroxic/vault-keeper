@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Integrate Chainlink VRF for randomness
 // Add multi-sig wallet functionality
+// Add support for decentralized insurance protocols
