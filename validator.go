@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Add unit tests for staking module
 // Fix governance proposal approval logic
+// Add support for cross-chain bridges
