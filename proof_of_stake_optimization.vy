@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize oracle data fetching mechanism
 // Integrate zk-rollups for scaling
+// Enhance contract modularity
