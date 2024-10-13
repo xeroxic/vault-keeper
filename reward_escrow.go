@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Improve error handling in transaction flow
 // Integrate Chainlink oracles
+// Enhance gas fee management
