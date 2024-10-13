@@ -6,3 +6,4 @@
 // Fix scalability issues with smart contracts
 // Implement adaptive block size for Ethereum
 // Enhance test coverage for Rust module
+// Add multi-sig wallet functionality
