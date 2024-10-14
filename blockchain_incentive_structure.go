@@ -3,3 +3,4 @@
 // Fix ERC-20 token interface bugs
 // Refactor contract state machine design
 // Refactor wallet interaction logic
+// Fix Oracle communication delay issues
