@@ -10,3 +10,4 @@
 // Implement contract function batching
 // Improve on-chain governance systems
 // Improve staking pool reward management
+// Integrate Chainlink VRF for randomness
