@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Fix Oracle communication delay issues
 // Integrate zk-rollups for scaling
+// Refactor wallet interaction logic
