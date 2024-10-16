@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Add unit tests for staking module
 // Optimize gas cost in function execution
+// Add native support for staking rewards
