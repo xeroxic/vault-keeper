@@ -12,3 +12,4 @@
 // Add governance proposal expiration feature
 // Fix ERC-1155 contract interactions
 // Fix scalability issues with smart contracts
+// Bugfix: incorrect reward calculation
