@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Improve gas fee estimation accuracy
 // Fix issues with contract finalization
+// Fix vulnerabilities in staking contracts
