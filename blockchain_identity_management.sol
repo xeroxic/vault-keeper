@@ -5,3 +5,4 @@
 // Refactor decentralized governance structure
 // Optimize storage for off-chain data
 // Add support for NFT marketplaces
+// Add multi-sig wallet functionality
