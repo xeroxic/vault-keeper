@@ -2,3 +2,4 @@
 // Add support for decentralized insurance protocols
 // Add support for multiple consensus mechanisms
 // Improve contract execution speed
+// Integrate with Ethereum Layer-2 solutions
