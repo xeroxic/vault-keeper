@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Optimize contract upgrade process
 // Optimize hashing algorithm
+// Fix race condition in staking pool
