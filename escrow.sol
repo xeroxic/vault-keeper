@@ -5,3 +5,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix overflow bug in token calculation
 // Improve contract auditing tools
+// Improve contract creation process
