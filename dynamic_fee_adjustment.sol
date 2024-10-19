@@ -10,3 +10,4 @@
 // Enhance gas fee management
 // Fix errors in contract interaction with wallets
 // Enhance smart contract state changes monitoring
+// Refactor reward pooling algorithm
