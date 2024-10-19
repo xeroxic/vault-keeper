@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Refactor decentralized exchange (DEX) code
 // Fix governance proposal approval logic
+// Refactor oracle interaction logic
