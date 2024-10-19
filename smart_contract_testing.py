@@ -4,3 +4,4 @@
 // Enhance contract upgrade mechanism
 // Fix deserialization bug in Haskell code
 // Improve contract state management
+// Enhance gas fee management
