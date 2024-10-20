@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Improve transaction batching efficiency
 // Implement price feed oracles for tokens
+// Implement on-chain fee adjustment mechanisms
