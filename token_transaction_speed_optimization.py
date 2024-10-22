@@ -5,3 +5,4 @@
 // Implement a new contract event system
 // Implement price feed oracles for tokens
 // Improve smart contract code modularity
+// Add support for zk-SNARKs in smart contracts
