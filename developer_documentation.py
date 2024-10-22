@@ -10,3 +10,4 @@
 // Integrate IPFS for storage
 // Fix memory leak in Rust smart contract
 // Improve staking logic for better rewards
+// Add support for decentralized file storage
