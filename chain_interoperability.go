@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Improve smart contract logging
 // Add support for fractional token ownership
+// Implement rewards escrow system
