@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Refactor validator reward system
 // Fix issue with multi-chain transactions
+// Enhance smart contract upgradeability
