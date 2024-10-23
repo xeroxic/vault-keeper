@@ -13,3 +13,4 @@
 // Fix overflow bug in token calculation
 // Improve smart contract code modularity
 // Integrate with decentralized identity providers
+// Optimize storage for off-chain data
