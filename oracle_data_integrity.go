@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Add multi-sig wallet functionality
 // Fix transaction replay issue
+// Add support for zk-SNARKs in smart contracts
