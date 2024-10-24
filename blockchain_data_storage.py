@@ -7,3 +7,4 @@
 // Add support for decentralized marketplaces
 // Fix issues in token transfer logic
 // Fix compatibility issues with MetaMask
+// Integrate Chainlink VRF for randomness
