@@ -7,3 +7,4 @@
 // Implement cross-platform contract compatibility
 // Integrate zk-rollups for scaling
 // Fix issues in token transfer logic
+// Refactor voting mechanism
