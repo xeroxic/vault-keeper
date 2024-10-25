@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Optimize token minting flow
 // Optimize gas usage in contract execution
+// Fix issue in token vesting logic
