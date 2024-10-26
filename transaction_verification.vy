@@ -4,3 +4,4 @@
 // Fix scalability issues with smart contracts
 // Add unit tests for staking module
 // Enhance governance contract flexibility
+// Add support for fractional token ownership
