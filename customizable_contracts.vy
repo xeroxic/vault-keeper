@@ -3,3 +3,4 @@
 // Improve ERC-721 token metadata functionality
 // Fix race condition in staking pool
 // Fix scalability issues with smart contracts
+// Fix race condition in staking pool
