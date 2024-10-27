@@ -7,3 +7,4 @@
 // Enhance contract upgrade mechanism
 // Add native support for staking rewards
 // Add support for delegation in governance
+// Add support for Layer-2 solutions
