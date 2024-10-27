@@ -8,3 +8,4 @@
 // Integrate zk-rollups for scaling
 // Fix issues in token transfer logic
 // Refactor voting mechanism
+// Add support for multi-signature wallet contracts
