@@ -13,3 +13,4 @@
 // Implement a new contract event system
 // Optimize contract upgrade process
 // Optimize oracle data fetching mechanism
+// Improve gas estimation for transactions
