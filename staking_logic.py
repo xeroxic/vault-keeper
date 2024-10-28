@@ -4,3 +4,4 @@
 // Refactor smart contract testing framework
 // Optimize state channels for faster transactions
 // Add batch processing for transactions
+// Fix compatibility issues with MetaMask
