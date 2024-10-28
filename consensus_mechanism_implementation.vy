@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Reduce gas cost in minting logic
 // Improve multi-chain transaction processing
+// Add support for fractional token ownership
