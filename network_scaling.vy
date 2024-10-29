@@ -8,3 +8,4 @@
 // Enhance security checks
 // Code cleanup and documentation update
 // Implement cross-chain bridge
+// Implement decentralized arbitration in contracts
