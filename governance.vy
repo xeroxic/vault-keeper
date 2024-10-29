@@ -8,3 +8,4 @@
 // Implement cross-chain bridge
 // Optimize decentralized oracle performance
 // Refactor multi-asset token management
+// Fix type mismatch in Haskell smart contract
