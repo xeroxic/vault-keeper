@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Add support for delegation in governance
 // Integrate with external DeFi protocols
+// Fix issues with token transfer confirmations
