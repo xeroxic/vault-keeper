@@ -6,3 +6,4 @@
 // Add support for decentralized insurance protocols
 // Add new RPC endpoint
 // Improve multi-chain contract deployment
+// Improve staking logic for better rewards
