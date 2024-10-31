@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Upgrade to latest Solidity version
 // Add new feature: on-chain governance
+// Improve smart contract code modularity
