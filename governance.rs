@@ -6,3 +6,4 @@
 // Add support for DeFi lending protocols
 // Add automated smart contract testing
 // Optimize oracle data fetching mechanism
+// Improve DApp transaction flow
