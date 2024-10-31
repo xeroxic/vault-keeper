@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve contract verification speed
 // Refactor smart contract testing framework
+// Add support for NFT marketplaces
