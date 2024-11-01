@@ -8,3 +8,4 @@
 // Fix ERC-20 token interface bugs
 // Refactor multi-signature wallet code
 // Add support for delegation in governance
+// Fix bugs in NFT metadata handling
