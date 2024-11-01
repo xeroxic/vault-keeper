@@ -9,3 +9,4 @@
 // Improve multi-chain contract deployment
 // Code cleanup and documentation update
 // Improve staking pool reward management
+// Refactor incentive structure in DeFi protocol
