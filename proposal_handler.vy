@@ -6,3 +6,4 @@
 // Fix governance proposal approval logic
 // Add support for decentralized marketplaces
 // Improve staking and yield farming logic
+// Refactor reward pooling algorithm
