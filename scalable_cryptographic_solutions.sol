@@ -6,3 +6,4 @@
 // Refactor decentralized storage system
 // Enhance developer documentation
 // Enhance contract initialization process
+// Add automated smart contract testing
