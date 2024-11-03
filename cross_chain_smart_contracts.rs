@@ -5,3 +5,4 @@
 // Implement rewards escrow system
 // Fix edge case in unstaking logic
 // Add batch processing for transactions
+// Add multi-sig wallet functionality
