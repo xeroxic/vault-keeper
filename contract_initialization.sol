@@ -10,3 +10,4 @@
 // Fix contract reentrancy issues
 // Add multi-sig wallet functionality
 // Improve decentralized oracle protocols
+// Add support for decentralized marketplaces
