@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Optimize token burn process
 // Improve error handling in transaction flow
+// Refactor contract state machine design
