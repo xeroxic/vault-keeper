@@ -4,3 +4,4 @@
 // Improve token minting flow efficiency
 // Refactor governance proposal logic
 // Fix issues with token vesting contracts
+// Add unit tests for staking module
