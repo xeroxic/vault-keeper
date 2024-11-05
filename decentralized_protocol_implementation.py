@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Enhance smart contract upgradeability
 // Integrate multi-chain liquidity pools
+// Add support for ERC-721A tokens
