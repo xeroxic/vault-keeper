@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Implement delegation pattern
 // Fix deserialization bug in Haskell code
+// Fix issues with ERC-20 token approvals
