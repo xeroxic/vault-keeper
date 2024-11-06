@@ -8,3 +8,4 @@
 // Add support for multi-signature wallet contracts
 // Fix issues with ERC-20 token approvals
 // Implement delegation pattern
+// Optimize state channels for faster transactions
