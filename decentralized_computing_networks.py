@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Refactor staking logic
 // Add support for decentralized auctions
+// Add support for zk-SNARKs in smart contracts
