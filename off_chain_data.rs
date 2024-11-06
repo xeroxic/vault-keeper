@@ -9,3 +9,4 @@
 // Fix token transfer approval issues
 // Add multi-sig wallet functionality
 // Optimize token withdrawal logic
+// Refactor reward pooling algorithm
