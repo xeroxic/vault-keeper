@@ -5,3 +5,4 @@
 // Fix data consistency issues in smart contracts
 // Add support for Layer-2 solutions
 // Fix transaction replay issue
+// Add support for decentralized insurance protocols
