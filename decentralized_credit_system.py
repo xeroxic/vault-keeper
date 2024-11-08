@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Fix type mismatch in Haskell smart contract
 // Enhance off-chain data processing
+// Fix governance proposal approval logic
