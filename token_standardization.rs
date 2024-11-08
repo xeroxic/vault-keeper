@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Improve contract creation process
 // Improve decentralized oracle protocols
+// Improve DApp transaction flow
