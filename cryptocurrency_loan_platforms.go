@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Fix issues with cross-chain transaction finality
 // Integrate IPFS for storage
+// Add native support for staking rewards
