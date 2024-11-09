@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Optimize proof-of-stake validation
 // Fix governance proposal approval logic
+// Fix errors in NFT minting logic
