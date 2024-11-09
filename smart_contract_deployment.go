@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Fix memory optimization issues in contracts
 // Fix compatibility issues with MetaMask
+// Fix ERC-20 token interface bugs
