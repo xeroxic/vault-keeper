@@ -10,3 +10,4 @@
 // Optimize decentralized voting mechanisms
 // Add decentralized contract upgradeability
 // Implement cross-chain bridge
+// Add support for NFT marketplaces
