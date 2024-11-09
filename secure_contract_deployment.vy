@@ -2,3 +2,4 @@
 // Fix Oracle communication delay issues
 // Implement liquidity pool staking mechanism
 // Enhance security checks
+// Fix governance proposal approval logic
