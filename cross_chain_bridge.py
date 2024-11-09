@@ -3,3 +3,4 @@
 // Fix bugs in multi-token systems
 // Enhance contract initialization process
 // Add support for Layer-2 solutions
+// Add multi-sig wallet functionality
