@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Add dynamic contract fees
 // Add security checks for contract deployment
+// Improve contract interaction via APIs
