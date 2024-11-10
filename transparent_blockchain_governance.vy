@@ -2,3 +2,4 @@
 // Add unit tests for staking module
 // Add automated contract testing tools
 // Improve staking pool reward management
+// Enhance test coverage for Rust module
