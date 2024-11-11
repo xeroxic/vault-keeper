@@ -8,3 +8,4 @@
 // Fix issues with contract finalization
 // Add support for delegation in governance
 // Refactor multi-asset token management
+// Refactor decentralized governance structure
