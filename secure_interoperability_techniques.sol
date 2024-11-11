@@ -7,3 +7,4 @@
 // Fix issues with token transfer confirmations
 // Enhance smart contract upgradeability
 // Improve contract verification speed
+// Fix governance proposal approval logic
