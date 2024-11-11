@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Enhance developer documentation
 // Enhance smart contract upgradeability
+// Integrate zk-rollups for scaling
