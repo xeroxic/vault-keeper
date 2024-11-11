@@ -9,3 +9,4 @@
 // Fix issues with contract finalization
 // Fix ERC-721 contract issues with transfers
 // Improve decentralized exchange (DEX) liquidity
+// Add support for Layer-2 solutions
