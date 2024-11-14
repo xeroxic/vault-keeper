@@ -10,3 +10,4 @@
 // Add multi-sig wallet functionality
 // Optimize token withdrawal logic
 // Refactor reward pooling algorithm
+// Fix scalability issues with smart contracts
