@@ -6,3 +6,4 @@
 // Enhance contract event handling
 // Fix type mismatch in Haskell smart contract
 // Enhance contract initialization process
+// Integrate IPFS for storage
