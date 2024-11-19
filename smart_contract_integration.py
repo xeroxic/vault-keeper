@@ -8,3 +8,4 @@
 // Optimize cross-chain bridging mechanisms
 // Implement a new contract event system
 // Refactor smart contract testing framework
+// Integrate zk-SNARKs for enhanced privacy
