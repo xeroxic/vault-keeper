@@ -6,3 +6,4 @@
 // Fix issues with token vesting contracts
 // Add non-fungible token (NFT) support
 // Fix security vulnerability in random number generation
+// Add support for yield farming rewards
