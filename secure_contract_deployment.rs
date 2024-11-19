@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Enhance gas fee management
 // Add batch processing for transactions
+// Add multi-sig wallet functionality
