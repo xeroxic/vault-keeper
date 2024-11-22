@@ -4,3 +4,4 @@
 // Improve multi-chain contract deployment
 // Fix vulnerabilities in staking contracts
 // Improve contract interaction via APIs
+// Add batch transaction capabilities
