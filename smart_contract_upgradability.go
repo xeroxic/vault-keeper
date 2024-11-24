@@ -8,3 +8,4 @@
 // Improve gas estimation for transactions
 // Optimize WASM compilation for Go contracts
 // Fix Oracle communication delay issues
+// Optimize gas usage in smart contracts
