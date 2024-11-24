@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Optimize contract storage for gas reduction
 // Add support for decentralized file storage
+// Refactor reward pooling algorithm
