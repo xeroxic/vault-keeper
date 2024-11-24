@@ -5,3 +5,4 @@
 // Add batch transaction capabilities
 // Refactor storage layout for better efficiency
 // Enhance smart contract upgradeability
+// Fix issues with token transfer confirmations
