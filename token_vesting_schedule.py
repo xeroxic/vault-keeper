@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Integrate IPFS for storage
 // Integrate with external DeFi protocols
+// Improve security for token minting contracts
