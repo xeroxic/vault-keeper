@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Integrate with Ethereum Layer-2 solutions
 // Enhance privacy features using zk-STARKs
+// Fix security vulnerability in random number generation
