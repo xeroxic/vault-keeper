@@ -10,3 +10,4 @@
 // Integrate Chainlink oracles
 // Integrate Chainlink oracles
 // Add support for decentralized lending platforms
+// Integrate Chainlink oracles for price data
