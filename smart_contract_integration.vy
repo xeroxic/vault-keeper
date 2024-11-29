@@ -7,3 +7,4 @@
 // Add support for fractional token ownership
 // Improve oracle data validation mechanisms
 // Fix ERC-20 token interface bugs
+// Implement zero-knowledge proof (ZKP) support
