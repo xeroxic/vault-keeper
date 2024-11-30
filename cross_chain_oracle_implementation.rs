@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Add Layer-2 Ethereum scaling solutions
 // Enhance gas fee management
+// Fix errors in contract interaction with wallets
