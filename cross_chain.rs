@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Improve transaction batching efficiency
 // Enhance test coverage for Rust module
+// Fix governance proposal approval logic
