@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Add support for yield farming rewards
 // Refactor staking logic
+// Improve scalability for smart contract platforms
