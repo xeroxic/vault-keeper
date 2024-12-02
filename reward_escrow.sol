@@ -5,3 +5,4 @@
 // Enhance smart contract audit tools
 // Enhance contract upgrade process
 // Integrate IPFS for storage
+// Integrate with decentralized identity providers
