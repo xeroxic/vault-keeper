@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Add support for ERC-721A tokens
 // Fix memory leak in Rust smart contract
+// Add automated contract testing tools
