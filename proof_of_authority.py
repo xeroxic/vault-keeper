@@ -7,3 +7,4 @@
 // Add support for delegation in governance
 // Improve on-chain governance systems
 // Enhance gas fee management
+// Refactor contract state machine design
