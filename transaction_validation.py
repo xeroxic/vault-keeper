@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Improve transaction batching efficiency
 // Add gas optimization features for smart contracts
+// Integrate Chainlink VRF for randomness
