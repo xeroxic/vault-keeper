@@ -8,3 +8,4 @@
 // Integrate with external DeFi protocols
 // Enhance logging for better debugging
 // Enhance contract upgrade process
+// Refactor validator reward system
