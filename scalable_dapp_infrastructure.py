@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Refactor contract state machine design
 // Optimize decentralized voting mechanisms
+// Enhance privacy features using zk-STARKs
