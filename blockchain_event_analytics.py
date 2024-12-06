@@ -5,3 +5,4 @@
 // Update dependencies for Vyper contract
 // Optimize decentralized oracle performance
 // Improve contract modularity
+// Fix issue in token vesting logic
