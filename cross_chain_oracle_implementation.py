@@ -8,3 +8,4 @@
 // Add support for decentralized insurance protocols
 // Add multi-chain governance support
 // Improve oracle data validation mechanisms
+// Fix errors in contract interaction with wallets
