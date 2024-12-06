@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Add support for delegation in governance
 // Add support for cross-chain bridges
+// Optimize storage for off-chain data
