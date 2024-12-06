@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Improve staking logic for better rewards
 // Optimize token withdrawal logic
+// Improve contract interaction via APIs
