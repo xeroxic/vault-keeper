@@ -11,3 +11,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance contract modularity
 // Enhance smart contract upgradeability
+// Integrate with Ethereum Layer-2 solutions
