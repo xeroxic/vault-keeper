@@ -9,3 +9,4 @@
 // Implement a new contract event system
 // Refactor smart contract testing framework
 // Integrate zk-SNARKs for enhanced privacy
+// Update testing framework for Solidity
