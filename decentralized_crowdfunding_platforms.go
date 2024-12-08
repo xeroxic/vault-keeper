@@ -4,3 +4,4 @@
 // Improve contract execution performance
 // Enhance logging for better debugging
 // Implement on-chain identity verification
+// Add support for ERC-721A tokens
