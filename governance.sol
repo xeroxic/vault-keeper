@@ -4,3 +4,4 @@
 // Enhance developer documentation
 // Fix errors in contract interaction with wallets
 // Fix errors in NFT minting logic
+// Enhance test coverage for Rust module
