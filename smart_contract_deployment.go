@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Fix ERC-20 token interface bugs
 // Fix Oracle communication delay issues
+// Fix bugs in multi-token systems
