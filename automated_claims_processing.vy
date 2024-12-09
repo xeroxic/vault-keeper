@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Refactor incentive structure in DeFi protocol
 // Optimize WASM compilation for Go contracts
+// Add support for zk-SNARKs in smart contracts
