@@ -2,3 +2,4 @@
 // Enhance contract modularity for future upgrades
 // Add native support for staking rewards
 // Improve security for token minting contracts
+// Refactor contract state machine design
