@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Improve ERC-721 token metadata functionality
 // Add support for decentralized file storage
+// Fix overflow bug in token calculation
