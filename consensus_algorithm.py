@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Enhance smart contract audit tools
 // Add support for delegation in governance
+// Optimize storage for off-chain data
