@@ -9,3 +9,4 @@
 // Add support for delegation in governance
 // Add support for Layer-2 solutions
 // Add automated contract testing tools
+// Add new RPC endpoint
