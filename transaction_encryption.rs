@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Fix transaction replay issue
 // Enhance cryptographic primitives in contracts
+// Add Layer-2 Ethereum scaling solutions
