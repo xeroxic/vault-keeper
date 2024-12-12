@@ -3,3 +3,4 @@
 // Fix issues with gas optimization in smart contracts
 // Optimize storage for off-chain data
 // Add support for zk-SNARKs in smart contracts
+// Fix type mismatch in Haskell smart contract
