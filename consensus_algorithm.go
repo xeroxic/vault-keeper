@@ -10,3 +10,4 @@
 // Optimize decentralized voting mechanisms
 // Refactor governance proposal logic
 // Enhance smart contract state changes monitoring
+// Optimize storage for off-chain data
