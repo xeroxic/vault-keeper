@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Fix compatibility with MetaMask
 // Fix bug in random number generation
+// Implement emergency stop mechanism
