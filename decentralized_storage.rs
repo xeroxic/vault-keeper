@@ -7,3 +7,4 @@
 // Fix memory optimization issues in contracts
 // Improve error handling in transaction flow
 // Improve gas estimation for transactions
+// Add native support for staking rewards
