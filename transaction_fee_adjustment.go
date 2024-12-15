@@ -8,3 +8,4 @@
 // Add support for decentralized insurance protocols
 // Update smart contract tests
 // Optimize decentralized application performance
+// Add unit tests for staking module
