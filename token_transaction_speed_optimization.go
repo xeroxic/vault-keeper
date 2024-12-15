@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Add governance proposal expiration feature
 // Add slashing mechanism for malicious actors
+// Refactor incentive structure in DeFi protocol
