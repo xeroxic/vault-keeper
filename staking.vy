@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Fix errors in contract interaction with wallets
 // Fix bug in random number generation
+// Improve staking and yield farming logic
