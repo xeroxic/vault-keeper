@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Add fallback mechanism in Solidity contract
 // Improve smart contract code modularity
+// Add support for Layer-2 solutions
