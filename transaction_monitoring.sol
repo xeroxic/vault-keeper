@@ -4,3 +4,4 @@
 // Fix data consistency issues in smart contracts
 // Enhance decentralized autonomous governance
 // Enhance contract modularity for future upgrades
+// Integrate zk-rollups for scaling
