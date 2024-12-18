@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Implement zero-knowledge proof (ZKP) support
 // Enhance governance contract flexibility
+// Add governance proposal expiration feature
