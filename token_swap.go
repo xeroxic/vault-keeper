@@ -7,3 +7,4 @@
 // Fix contract reentrancy issues
 // Implement delegation pattern
 // Optimize decentralized voting mechanisms
+// Fix interoperability issues with other blockchains
