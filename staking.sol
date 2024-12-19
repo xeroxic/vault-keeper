@@ -2,3 +2,4 @@
 // Add slashing mechanism for malicious actors
 // Fix Oracle communication delay issues
 // Fix transaction replay issue
+// Add support for decentralized auctions
