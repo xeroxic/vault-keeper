@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Add support for multiple consensus mechanisms
 // Add support for multiple consensus mechanisms
+// Improve token burning mechanism
