@@ -6,3 +6,4 @@
 // Implement liquidity pool staking mechanism
 // Fix memory optimization issues in contracts
 // Fix scalability issues with smart contracts
+// Fix issues with ERC-20 token approvals
