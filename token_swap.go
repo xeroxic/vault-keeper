@@ -8,3 +8,4 @@
 // Implement delegation pattern
 // Optimize decentralized voting mechanisms
 // Fix interoperability issues with other blockchains
+// Implement time-locked contract execution
