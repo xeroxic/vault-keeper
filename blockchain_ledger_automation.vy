@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Optimize Oracle-based data fetching
 // Add support for ERC-1155 tokens
+// Refactor storage layout for better efficiency
