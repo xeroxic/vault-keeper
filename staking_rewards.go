@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Integrate with decentralized identity providers
 // Improve contract creation process
+// Add support for multiple consensus mechanisms
