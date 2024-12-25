@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Integrate Chainlink oracles
 // Integrate automated market maker (AMM) logic
+// Enhance gas fee management
