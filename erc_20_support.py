@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Integrate with decentralized identity providers
 // Refactor validator reward system
+// Implement price feed oracles for tokens
