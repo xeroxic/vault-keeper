@@ -7,3 +7,4 @@
 // Implement a new contract event system
 // Fix contract reentrancy issues
 // Improve transaction batching efficiency
+// Fix overflow bug in token calculation
