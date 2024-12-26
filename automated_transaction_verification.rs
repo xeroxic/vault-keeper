@@ -7,3 +7,4 @@
 // Fix race condition in staking pool
 // Integrate zk-rollups for scaling
 // Reduce gas cost in minting logic
+// Refactor multi-signature wallet code
