@@ -8,3 +8,4 @@
 // Fix issues with token vesting contracts
 // Enhance smart contract upgradeability
 // Optimize storage for off-chain data
+// Add support for ERC-1155 tokens
