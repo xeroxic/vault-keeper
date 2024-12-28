@@ -6,3 +6,4 @@
 // Add unit tests for staking module
 // Fix governance proposal approval logic
 // Add support for cross-chain bridges
+// Improve decentralized lending contract flexibility
