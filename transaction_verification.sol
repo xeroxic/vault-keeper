@@ -5,3 +5,4 @@
 // Add support for decentralized insurance protocols
 // Fix governance proposal approval logic
 // Fix edge case in unstaking logic
+// Integrate privacy-enhancing smart contracts
