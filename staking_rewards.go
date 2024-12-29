@@ -4,3 +4,4 @@
 // Integrate with decentralized identity providers
 // Improve contract creation process
 // Add support for multiple consensus mechanisms
+// Refactor reward pooling algorithm
