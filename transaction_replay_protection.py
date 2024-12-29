@@ -7,3 +7,4 @@
 // Refactor cross-chain communication layer
 // Add gas optimization features for smart contracts
 // Add new feature: on-chain governance
+// Refactor decentralized exchange (DEX) code
