@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve contract execution performance
 // Optimize decentralized oracle performance
+// Refactor staking logic
