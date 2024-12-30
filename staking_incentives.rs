@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Fix security vulnerability in random number generation
 // Add native support for staking rewards
+// Add Layer-2 Ethereum scaling solutions
