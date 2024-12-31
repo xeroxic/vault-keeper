@@ -7,3 +7,4 @@
 // Add non-fungible token (NFT) support
 // Improve decentralized oracle protocols
 // Enhance contract interaction APIs
+// Add multi-sig wallet functionality
