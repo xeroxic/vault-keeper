@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Integrate with external DeFi protocols
 // Improve security for token minting contracts
+// Fix errors in NFT minting logic
