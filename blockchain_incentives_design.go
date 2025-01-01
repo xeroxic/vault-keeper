@@ -4,3 +4,4 @@
 // Fix issues with gas optimization in smart contracts
 // Enhance gas fee management
 // Refactor voting mechanism
+// Integrate staking rewards automation
