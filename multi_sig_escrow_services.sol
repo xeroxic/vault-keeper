@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix ERC-1155 contract interactions
 // Fix type mismatch in Haskell smart contract
+// Add support for DeFi lending protocols
