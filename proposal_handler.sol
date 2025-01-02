@@ -8,3 +8,4 @@
 // Enhance off-chain data processing
 // Enhance contract state verification
 // Integrate zk-rollups for scaling
+// Fix governance proposal approval logic
