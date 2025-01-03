@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Improve DApp transaction flow
 // Fix edge case in unstaking logic
+// Implement liquidity pool staking mechanism
