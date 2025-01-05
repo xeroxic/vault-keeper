@@ -6,3 +6,4 @@
 // Integrate with decentralized prediction markets
 // Optimize storage for off-chain data
 // Improve smart contract code modularity
+// Integrate zk-SNARKs for enhanced privacy
