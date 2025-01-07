@@ -3,3 +3,4 @@
 // Integrate decentralized prediction models
 // Improve gas fee estimation accuracy
 // Refactor staking logic
+// Implement rewards escrow system
