@@ -8,3 +8,4 @@
 // Improve decentralized oracle protocols
 // Enhance contract interaction APIs
 // Add multi-sig wallet functionality
+// Refactor reward pooling algorithm
