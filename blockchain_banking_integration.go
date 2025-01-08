@@ -5,3 +5,4 @@
 // Add support for decentralized file storage
 // Add batch processing for transactions
 // Add governance proposal expiration feature
+// Implement adaptive block size for Ethereum
