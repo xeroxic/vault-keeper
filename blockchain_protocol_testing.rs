@@ -7,3 +7,4 @@
 // Add new RPC endpoint
 // Improve multi-chain contract deployment
 // Improve staking logic for better rewards
+// Improve security in decentralized applications
