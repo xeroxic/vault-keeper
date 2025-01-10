@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Integrate Chainlink oracles
 // Enhance gas fee management
+// Improve staking and yield farming logic
