@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Add support for yield farming rewards
 // Add support for cross-chain bridges
+// Improve decentralized lending contract flexibility
