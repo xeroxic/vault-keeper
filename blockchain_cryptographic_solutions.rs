@@ -3,3 +3,4 @@
 // Refactor wallet interaction logic
 // Add new feature: on-chain governance
 // Improve API rate limiting
+// Enhance contract modularity
