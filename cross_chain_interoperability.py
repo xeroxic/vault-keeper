@@ -5,3 +5,4 @@
 // Implement price feed oracles for tokens
 // Add support for decentralized credit scoring
 // Refactor staking logic
+// Implement on-chain identity verification
