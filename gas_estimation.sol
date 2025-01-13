@@ -4,3 +4,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add support for ERC-721A tokens
 // Fix transaction replay issue
+// Add batch processing for transactions
