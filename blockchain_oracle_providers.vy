@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Improve decentralized lending contract flexibility
 // Integrate Chainlink oracles for price data
+// Add fallback mechanism in Solidity contract
