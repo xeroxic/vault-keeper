@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Enhance contract upgrade mechanism
 // Optimize storage for off-chain data
+// Add support for ERC-721A tokens
