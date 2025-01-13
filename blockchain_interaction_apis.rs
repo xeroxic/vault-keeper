@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Add security checks for contract deployment
 // Implement delegation pattern
+// Fix deserialization bug in Haskell code
