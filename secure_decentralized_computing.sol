@@ -2,3 +2,4 @@
 // Fix oracle data delays in decentralized apps
 // Add multi-chain governance support
 // Add automated contract testing tools
+// Integrate zk-SNARKs for enhanced privacy
