@@ -8,3 +8,4 @@
 // Integrate decentralized oracles for data feeds
 // Fix compatibility issues with major wallets
 // Upgrade to latest Solidity version
+// Refactor decentralized exchange (DEX) code
