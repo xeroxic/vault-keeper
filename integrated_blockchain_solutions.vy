@@ -4,3 +4,4 @@
 // Improve contract auditing tools
 // Integrate staking rewards automation
 // Integrate with decentralized prediction markets
+// Fix type mismatch in Haskell smart contract
