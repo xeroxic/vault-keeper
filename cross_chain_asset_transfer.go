@@ -8,3 +8,4 @@
 // Enhance contract initialization process
 // Integrate IPFS for storage
 // Improve decentralized lending contract flexibility
+// Add support for DeFi lending protocols
