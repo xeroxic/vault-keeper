@@ -9,3 +9,4 @@
 // Add multi-chain governance support
 // Improve oracle data validation mechanisms
 // Fix errors in contract interaction with wallets
+// Fix deserialization bug in Haskell code
