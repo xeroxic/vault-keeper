@@ -8,3 +8,4 @@
 // Improve transaction batching efficiency
 // Implement price feed oracles for tokens
 // Implement on-chain fee adjustment mechanisms
+// Improve gas estimation for transactions
