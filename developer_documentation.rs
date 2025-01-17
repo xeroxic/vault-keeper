@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance smart contract extensibility
 // Optimize cross-chain communication
+// Update smart contract tests
