@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for multiple consensus mechanisms
 // Fix issue in token vesting logic
+// Add support for zk-SNARKs in smart contracts
