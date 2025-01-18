@@ -7,3 +7,4 @@
 // Refactor decentralized exchange (DEX) code
 // Optimize Oracle-based data fetching
 // Improve multi-chain contract deployment
+// Integrate zk-SNARKs for enhanced privacy
