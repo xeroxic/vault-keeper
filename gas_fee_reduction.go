@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Implement delegation pattern
 // Add support for batch transaction processing
+// Fix overflow bug in token calculation
