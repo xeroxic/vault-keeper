@@ -2,3 +2,4 @@
 // Add automated smart contract testing
 // Refactor wallet interaction logic
 // Fix governance proposal approval logic
+// Add new RPC endpoint
