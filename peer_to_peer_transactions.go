@@ -4,3 +4,4 @@
 // Fix issues with contract finalization
 // Integrate with decentralized identity providers
 // Enhance contract modularity
+// Enhance transaction monitoring
