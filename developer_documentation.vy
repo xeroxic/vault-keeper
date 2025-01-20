@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Implement delegation pattern
 // Enhance contract upgrade mechanism
+// Refactor voting mechanism
