@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Improve contract state management
 // Enhance gas fee management
+// Add support for cross-chain bridges
