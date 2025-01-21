@@ -4,3 +4,4 @@
 // Improve multi-chain contract deployment
 // Fix transaction replay issue
 // Implement delegation pattern
+// Implement on-chain identity verification
