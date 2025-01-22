@@ -5,3 +5,4 @@
 // Integrate staking rewards automation
 // Enhance API rate limiting for smart contracts
 // Fix governance proposal approval logic
+// Add support for yield farming rewards
