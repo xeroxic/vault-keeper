@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Fix deserialization bug in Haskell code
 // Fix issues in token transfer logic
+// Enhance governance contract flexibility
