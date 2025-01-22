@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Fix issues with token vesting contracts
 // Add unit tests for staking module
+// Refactor validator reward system
