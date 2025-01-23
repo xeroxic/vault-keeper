@@ -2,3 +2,4 @@
 // Integrate decentralized oracles for data feeds
 // Enhance contract initialization process
 // Add support for Layer-2 solutions
+// Add new feature: on-chain governance
