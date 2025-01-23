@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Refactor voting mechanism
 // Fix vulnerabilities in staking contracts
+// Add dynamic contract fees
