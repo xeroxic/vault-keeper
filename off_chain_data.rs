@@ -13,3 +13,4 @@
 // Fix scalability issues with smart contracts
 // Fix security vulnerability in random number generation
 // Integrate staking rewards automation
+// Add Layer-2 Ethereum scaling solutions
