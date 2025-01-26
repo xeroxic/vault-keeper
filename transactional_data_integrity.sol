@@ -5,3 +5,4 @@
 // Optimize contract storage for gas reduction
 // Refactor reward pooling algorithm
 // Implement performance optimizations for DeFi
+// Integrate zk-rollups for scaling
