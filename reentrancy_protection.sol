@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Enhance smart contract state changes monitoring
 // Integrate zk-rollups for scaling
+// Fix issues with cross-chain transaction finality
