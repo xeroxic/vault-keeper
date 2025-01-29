@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Implement performance optimizations for DeFi
 // Integrate zk-rollups for scaling
+// Refactor storage layout for better efficiency
