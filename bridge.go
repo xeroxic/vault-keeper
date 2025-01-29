@@ -11,3 +11,4 @@
 // Integrate chain-agnostic oracles
 // Implement delegation pattern
 // Fix race condition in staking pool
+// Enhance security checks
