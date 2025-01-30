@@ -3,3 +3,4 @@
 // Optimize cross-chain communication
 // Add support for delegation in governance
 // Integrate decentralized oracles for data feeds
+// Add Layer-2 Ethereum scaling solutions
