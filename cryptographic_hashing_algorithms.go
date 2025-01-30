@@ -4,3 +4,4 @@
 // Integrate with decentralized identity providers
 // Integrate with external DeFi protocols
 // Integrate automated market maker (AMM) logic
+// Fix edge case in unstaking logic
