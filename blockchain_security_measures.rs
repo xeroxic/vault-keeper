@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Refactor staking logic
 // Improve scalability for smart contract platforms
+// Improve gas fee estimation accuracy
