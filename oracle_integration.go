@@ -9,3 +9,4 @@
 // Integrate with decentralized identity providers
 // Improve contract state management
 // Add fallback mechanism in Solidity contract
+// Refactor decentralized exchange (DEX) code
