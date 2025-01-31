@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Implement adaptive block size for Ethereum
 // Fix overflow bug in token calculation
+// Implement contract function batching
