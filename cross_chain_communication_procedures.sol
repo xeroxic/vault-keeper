@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Fix vulnerabilities in staking contracts
 // Add dynamic contract fees
+// Enhance smart contract state changes monitoring
