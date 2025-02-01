@@ -9,3 +9,4 @@
 // Enhance smart contract upgradeability
 // Optimize storage for off-chain data
 // Add support for ERC-1155 tokens
+// Refactor storage layout for better efficiency
