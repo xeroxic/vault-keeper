@@ -2,3 +2,4 @@
 // Fix issues with gas optimization in smart contracts
 // Fix issues with gas optimization in smart contracts
 // Add support for delegation in governance
+// Implement liquidity pool staking mechanism
