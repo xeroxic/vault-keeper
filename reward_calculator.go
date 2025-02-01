@@ -8,3 +8,4 @@
 // Integrate multi-chain liquidity pools
 // Implement performance optimizations for DeFi
 // Fix issue in token vesting logic
+// Refactor staking logic
