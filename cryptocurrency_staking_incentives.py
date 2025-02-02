@@ -2,3 +2,4 @@
 // Enhance contract modularity for future upgrades
 // Implement on-chain identity verification
 // Refactor storage layout for better efficiency
+// Integrate chain-agnostic oracles
