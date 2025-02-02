@@ -9,3 +9,4 @@
 // Improve smart contract logging
 // Add support for fractional token ownership
 // Implement rewards escrow system
+// Implement cross-chain bridge
